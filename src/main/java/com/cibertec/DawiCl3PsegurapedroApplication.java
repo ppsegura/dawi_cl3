@@ -8,6 +8,7 @@ public class DawiCl3PsegurapedroApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DawiCl3PsegurapedroApplication.class, args);
+		System.out.println("Terminó");
 	}
 
 }
